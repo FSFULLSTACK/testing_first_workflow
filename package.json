@@ -1,0 +1,22 @@
+{
+  "name": "portfolio23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSFULLSTACK/testing_first_workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FSFULLSTACK/testing_first_workflow/issues"
+  },
+  "homepage": "https://github.com/FSFULLSTACK/testing_first_workflow#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
